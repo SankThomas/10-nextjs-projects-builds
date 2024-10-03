@@ -152,5 +152,6 @@ The apps we build in the videos might not be exact 1:1 matches for the previews 
 3. [Website](https://tsbsankara.netlify.app)
 4. [Gumroad](https://tsbsankara.gumroad.com)
 5. [Tutorialspoint](https://www.tutorialspoint.com/lets-build-20-reactjs-projects/index.asp)
+6. [Ko-Fi](https://ko-fi.com/tsbsankara)
 
 Producing all this content takes a lot of time and energy so any kind of support goes a long way. You can buy me a coffee [here](https://ko-fi.com/tsbsankara).
