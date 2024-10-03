@@ -121,7 +121,7 @@ npm install -D prettier prettier-plugin-tailwindcss
 
 #### Create `.prettierrc` file and paste in the following:
 
-After installing it, create the following file in the root of your workspace and paste in the following line:
+After installing it, create a `.prettierrc` file in the root of your workspace and paste in the following line:
 
 ```
 {
