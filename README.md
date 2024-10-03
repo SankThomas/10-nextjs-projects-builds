@@ -153,4 +153,4 @@ The apps we build in the videos might not be exact 1:1 matches for the previews 
 4. [Gumroad](https://tsbsankara.gumroad.com)
 5. [Tutorialspoint](https://www.tutorialspoint.com/lets-build-20-reactjs-projects/index.asp)
 
-Producing all this content takes a lot of time and energy so any kind of support goes a long way.
+Producing all this content takes a lot of time and energy so any kind of support goes a long way. You can buy me a coffee [here](https://ko-fi.com/tsbsankara).
