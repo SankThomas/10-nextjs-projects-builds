@@ -115,7 +115,9 @@ I only happen to prefer tailwindCSS because it speeds up development for me, and
 
 We are going to use the following plugin throughout our projects because it will help us to format tailwind classes using the CSS BEM convention. To install it, run the following command in your terminal, making sure you are in the correct project folder.
 
-`npm install -D prettier prettier-plugin-tailwindcss`
+```
+npm install -D prettier prettier-plugin-tailwindcss
+```
 
 #### Create `.prettierrc` file and paste in the following:
 
