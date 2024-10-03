@@ -1,0 +1,30 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.guides.bracketPairs": true,
+  "editor.minimap.enabled": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.hover.sticky": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.linkedEditing": true,
+  "editor.fontSize": 16,
+  "editor.stickyScroll.scrollWithEditor": false,
+  "terminal.integrated.fontSize": 16,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "workbench.tree.enableStickyScroll": false,
+  "notebook.stickyScroll.mode": "flat",
+  "explorer.confirmDragAndDrop": false,
+  "breadcrumbs.enabled": false,
+  "git.autofetch": true,
+  "git.confirmSync": false
+}
