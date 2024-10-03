@@ -9,9 +9,10 @@
   "editor.hover.sticky": false,
   "editor.stickyScroll.enabled": false,
   "editor.linkedEditing": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 12,
   "editor.stickyScroll.scrollWithEditor": false,
-  "terminal.integrated.fontSize": 16,
+  "window.zoomLevel": 2,
+  "terminal.integrated.fontSize": 12,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
