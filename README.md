@@ -81,7 +81,7 @@ We will also use the **app router** as opposed to the **pages router**.
 
 ## Requirements for the course
 
-1. A good understanding of HTML, CSS and JavaScript. Here is a [refresher course](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview) to the MDN Docs for JavaScript.
+1. A good understanding of HTML, CSS and JavaScript. Here is a [JavaScript refresher course](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview) on MDN.
 2. [NodeJs](https://nodejs.org) installed on your machine to be able to run JavaScript outside of the browser.
 3. [Git](https://git-scm.com) installed on your system to make git commits.
 4. A code editor such as [VSCode](https://code.visualstudio.com), [Atom](https://atom-editor.cc/), [Webstorm](https://www.jetbrains.com/webstorm/download/) or any other you would prefer.
