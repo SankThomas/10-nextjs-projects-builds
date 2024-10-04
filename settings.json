@@ -1,4 +1,5 @@
 {
+  "editor.fontFamily": "Ubuntu Mono",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "editor.wordWrap": "on",
@@ -9,10 +10,10 @@
   "editor.hover.sticky": false,
   "editor.stickyScroll.enabled": false,
   "editor.linkedEditing": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 18,
   "editor.stickyScroll.scrollWithEditor": false,
-  "window.zoomLevel": 2,
-  "terminal.integrated.fontSize": 13,
+  "window.zoomLevel": 1,
+  "terminal.integrated.fontSize": 18,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
@@ -27,5 +28,6 @@
   "explorer.confirmDragAndDrop": false,
   "breadcrumbs.enabled": false,
   "git.autofetch": true,
-  "git.confirmSync": false
+  "git.confirmSync": false,
+  "typescript.updateImportsOnFileMove.enabled": "always"
 }
