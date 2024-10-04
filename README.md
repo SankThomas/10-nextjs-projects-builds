@@ -87,6 +87,10 @@ We will also use the **app router** as opposed to the **pages router**.
 4. A code editor such as [VSCode](https://code.visualstudio.com), [Atom](https://atom-editor.cc/), [Webstorm](https://www.jetbrains.com/webstorm/download/) or any other you would prefer.
 5. A [GitHub account](https://github.com) to access and download source code.
 
+## React Foundations Course
+
+If you're are coming in completely new from HTML, CSS and JavaScript, [here is a link](https://nextjs.org/learn/react-foundations) to the NextJs React Foundations course which does a good job of introducting core concepts and migrating from HTML to React to NextJs.
+
 ## Software versions at the time of recording
 
 These are the versions I am running at the time of recording. Take note of them because new versions are constantly being put out and might work differently if you are building these applications in the future.
