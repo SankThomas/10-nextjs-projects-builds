@@ -143,6 +143,12 @@ And then you can begin typing away and your classes will be formatted when you s
 
 ShadCN is an amazing component library which will give us access to nicely styled components to use in our application. [Check it out](https://ui.shadcn.com)
 
+## Template Repository
+
+For the intro sections, we are going to build a NextJs application from scratch, and I will show you all the dependencies that we will be using once we start the projects. In order to help remove the redundancy of installing the same dependencies over and over 10 times for every project, I have created a template repository that we will use instead. [Find it here: Next15-Starter](https://github.com/sankthomas/next15-starter).
+
+And if you are a fan of TypeScript, I have a [TypeScript Template](https://github.com/sankthomas/next15-typescript-starter) as well.
+
 ## Disclaimer
 
 The apps we build in the videos might not be exact 1:1 matches for the previews shown above in terms of styling. All the other functionality, however, will be the same. Feel free to change up the styling to suit your themes however you want.
