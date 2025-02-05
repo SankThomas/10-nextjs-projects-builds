@@ -99,7 +99,7 @@ These are the versions I am running at the time of recording. Take note of them 
 2. npm - 10.8.3
 3. npx - 10.8.3
 4. git - 2.43.0
-5. NextJs - 14.2.x
+5. NextJs - 15.1.x
 
 ## Plugins we will use
 
